@@ -1,1 +1,3 @@
-nombre_curso = "Ultimate Python"
+nombre_Curso = "Ultimate Python"
+
+print(nombre_Curso)
